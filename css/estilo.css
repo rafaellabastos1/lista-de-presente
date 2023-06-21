@@ -1,5 +1,6 @@
 @import url("./cabecalho.css");
 @import url("./rodape.css");
+@import url("./conteudo.css");
 
 h2 {
     background-color: rgb(94, 206, 214);
