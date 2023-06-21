@@ -1,12 +1,17 @@
 @import url("./cabecalho.css");
 @import url("./rodape.css");
 
+@import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap%27);
+@import url(https://fonts.googleapis.com/css2?family=Bitter:wght@500&display=swap%27);
+
 p {
     font-size: 17px;
+    font-family: 'Roboto', sans-serif, calibri, arial;
 }
 
 h2 {
     background-color: rgb(94, 206, 214);
     border-radius: 5px;
     font-size: 25px;
+    font-family: 'Bitter', 'Times New Roman', Times, serif;
 }
