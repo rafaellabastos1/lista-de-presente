@@ -1,12 +1,6 @@
 @import url("./cabecalho.css");
 @import url("./rodape.css");
 
-h1 {
-    background-color: rgb(94, 206, 214);
-    border-radius: 5px;
-    font-size: 35px;
-}
-
 h2 {
     background-color: rgb(94, 206, 214);
     border-radius: 5px;
