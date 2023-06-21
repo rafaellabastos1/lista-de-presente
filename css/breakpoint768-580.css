@@ -1,0 +1,41 @@
+@media(max-width: 768px) and (min-width: 580px) {
+    /* Estilo */
+    p {
+        font-size: 110%;
+        font-family: 'Roboto', sans-serif, calibri, arial;  
+    }
+
+    h2 {
+        background-color: rgb(94, 206, 214);
+        border-radius: 5px;
+        font-size: 160%;
+        font-family: 'Bitter', 'Times New Roman', Times, serif;
+    }
+
+    /* Cabeçalho */
+    .cabecalho {
+        display: flex;
+        flex-wrap: wrap;
+        background-color: rgb(198, 94, 214);
+        padding: 3%;
+        align-items: stretch;
+    }
+
+    .cabecalho img {
+        max-width: 18%;
+        display: block;
+    }
+
+    .cabecalho h1 {
+        font-size: 300%;
+        font-family: 'Bitter', 'Times New Roman', Times, serif;
+    }
+
+    /* Rodapé */
+    .rodape {
+        display: flex;
+        background-color: rgb(198, 94, 214);
+        padding: 2%;
+        margin-top: 2%;
+    }
+}

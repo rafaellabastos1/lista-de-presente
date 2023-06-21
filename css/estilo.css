@@ -1,10 +1,9 @@
-@import url("./cabecalho.css");
-@import url("./rodape.css");
-@import url("./breakpoint-480.css");
-@import url("./breakpoint481-768.css");
-@import url("./breakpoint769-998.css");
-@import url("./breakpoint999-1279.css");
-@import url("./breakpoint-1280.css");
+@import url("breakpoint-399.css");
+@import url("breakpoint579-400.css");
+@import url("breakpoint768-580.css");
+@import url("breakpoint769-949.css");
+@import url("breakpoint950-1279.css");
+@import url("breakpoint-1280.css");
 
 @import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap%27);
 @import url(https://fonts.googleapis.com/css2?family=Bitter:wght@500&display=swap%27);
