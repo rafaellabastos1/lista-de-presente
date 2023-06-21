@@ -2,16 +2,16 @@
     display: flex;
     flex-wrap: wrap;
     background-color: rgb(198, 94, 214);
-    padding: 50px;
+    padding: 3%;
     align-items: stretch;
 }
 
 .cabecalho img {
-    max-width: 250px;
+    max-width: 18%;
     display: block;
 }
 
 .cabecalho h1 {
-    font-size: 100px;
+    font-size: 600%;
     font-family: 'Bitter', 'Times New Roman', Times, serif;
 }
