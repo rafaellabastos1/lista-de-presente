@@ -1,17 +1,22 @@
 @import url("./cabecalho.css");
 @import url("./rodape.css");
+@import url("./breakpoint-480.css");
+@import url("./breakpoint481-768.css");
+@import url("./breakpoint769-998.css");
+@import url("./breakpoint999-1279.css");
+@import url("./breakpoint-1280.css");
 
 @import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap%27);
 @import url(https://fonts.googleapis.com/css2?family=Bitter:wght@500&display=swap%27);
 
 p {
-    font-size: 17px;
+    font-size: 110%;
     font-family: 'Roboto', sans-serif, calibri, arial;
 }
 
 h2 {
     background-color: rgb(94, 206, 214);
     border-radius: 5px;
-    font-size: 25px;
+    font-size: 160%;
     font-family: 'Bitter', 'Times New Roman', Times, serif;
 }
