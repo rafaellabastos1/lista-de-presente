@@ -1,0 +1,10 @@
+.itens {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.itens p {
+    background-color: rgb(31, 219, 204);
+    padding: 8px;
+    border: 2.5px solid black;
+}
