@@ -1,10 +1,27 @@
 .itens {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
+    border: 2.5px solid black;
+    padding: 8px;
+    margin: 10px;
+    background-color: rgb(31, 219, 204);
 }
 
-.itens p {
-    background-color: rgb(31, 219, 204);
-    padding: 8px;
-    border: 2.5px solid black;
+.itens button {
+    margin-top: 15px;
+    padding: 5px 10px;
+    margin-left: 1%;
+    border-radius: 13%;
+    background-color: rgb(231, 154, 243);
 }
+
+.itens h3 {
+    color: black;
+    font-family: 'Bitter', 'Times New Roman', Times, serif;
+    font-size: 160%;
+    text-indent: 1%;
+}
+
+.itens:hover{
+    background-color: rgb(44, 247, 213);
+} 
