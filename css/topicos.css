@@ -5,6 +5,7 @@
     padding: 8px;
     margin: 10px;
     background-color: rgb(31, 219, 204);
+    font-family: 'Bitter', 'Times New Roman', Times, serif;
 }
 
 .itens button {
@@ -17,11 +18,10 @@
 
 .itens h3 {
     color: black;
-    font-family: 'Bitter', 'Times New Roman', Times, serif;
     font-size: 160%;
     text-indent: 1%;
 }
 
 .itens:hover{
     background-color: rgb(44, 247, 213);
-} 
+}
