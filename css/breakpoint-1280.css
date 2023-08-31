@@ -31,6 +31,18 @@
         font-family: 'Bitter', 'Times New Roman', Times, serif;
     }
 
+    /* Imagens */
+    .imagens {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: stretch;
+    }
+
+    .imagens a img {
+        max-width: 100%;
+        display: block;
+    }
+
     /* Rodapé */
     .rodape {
         display: flex;

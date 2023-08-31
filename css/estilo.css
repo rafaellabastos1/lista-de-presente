@@ -15,6 +15,11 @@ p {
     font-family: 'Roboto', sans-serif, calibri, arial;
 }
 
+h1 {
+    font-size: 200%;
+    font-family: 'Bitter', 'Times New Roman', Times, serif;
+}
+
 h2 {
     background-color: rgb(94, 206, 214);
     border-radius: 5px;
