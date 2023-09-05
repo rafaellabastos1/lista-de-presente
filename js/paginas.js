@@ -61,17 +61,3 @@ function beleza(numeroBeleza) {
         window.location.href = "../subitens/unha.html"
     }
 }
-
-function magia(numeroMagia) {
-    let itens = document.getElementsByClassName("itens");
-    if (numeroMagia == 0) {
-        itens[numeroMagia].innerHTML = '<a href = "../subitens/ferramentas.html">Redirecionando para ferramentas</a>'
-        window.location.href = "../subitens/ferramentas.html"
-    } else if (numeroMagia == 1) {
-        itens[numeroMagia].innerHTML = '<a href = "../subitens/livrodemagia.html">Redirecionando para livros de magia</a>'
-        window.location.href = "../subitens/livrodemagia.html"
-    } else if (numeroMagia == 2) {
-        itens[numeroMagia].innerHTML = '<a href = "../subitens/outros.html">Redirecionando para outros</a>'
-        window.location.href = "../subitens/outros.html"
-    }
-}
